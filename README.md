@@ -1,5 +1,8 @@
 # Szenario 
 
+- https://hapi.fhir.org/baseR4
+
 [X] -> Patienten Erstellen 
 [X] -> hausarzt / Orthopäde anlegen 
-[ ] -> Zuweisung von hausarzt zum ortho  
+[ ] -> Überweisung von hausarzt zum ortho  
+
