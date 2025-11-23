@@ -19,16 +19,16 @@ let ueberweisung_orthopaede = {
   },
   subject: {
     reference: "Patient/46161799",
-    display: "lala tata",
+    display: "Alex Beispiel",
   },
   requester: {
     reference: "Practitioner/53357560",
-    display: "Hausarzt Dr. Schmidt",
+    display: "Hausarzt Dr. Alex Schmidt",
   },
   performer: [
     {
       reference: "Practitioner/53359852",
-      display: "Orthopäde Mustermann",
+      display: "Orthopäde Alex Mustermann",
     },
   ],
   reasonCode: [

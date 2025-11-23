@@ -17,7 +17,7 @@ let orthopaede_uni_projekt =
         {
             "use": "official",
             "family": "Mustermann",
-            "given": ["Erika"],
+            "given": ["Alex"],
             "prefix": ["Dr. med."],
             "suffix": ["Facharzt für Orthopädie"]
         }
@@ -30,7 +30,7 @@ let orthopaede_uni_projekt =
         },
         {
             "system": "email",
-            "value": "erika.mustermann@ortho-dortmund.de",
+            "value": "alex.mustermann@ortho-dortmund.de",
             "use": "work"
         }
     ],

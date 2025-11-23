@@ -18,7 +18,7 @@ let hausarzt =
     {
       "use": "official",
       "family": "Schmidt",
-      "given": ["Anna"],
+      "given": ["Alex"],
       "prefix": ["Dr. med."]
     }
   ],
@@ -30,7 +30,7 @@ let hausarzt =
     },
     {
       "system": "email",
-      "value": "a.schmidt@hausarztpraxis.de",
+      "value": "alex.schmidt@hausarztpraxis.de",
       "use": "work"
     }
   ],

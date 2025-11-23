@@ -19,8 +19,8 @@ let patient =
     "birthDate": [2000, 3, 15],
     "active": true,
     "name": [{
-        "family": "tata",
-        "given": ["lala"]
+        "family": "Beispiel",
+        "given": ["Alex"]
     }],
     "identifier": [{
         "value": "A12345"
